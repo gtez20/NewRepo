@@ -1,0 +1,4 @@
+﻿cl : 命令行  warning D9025: 正在重写“/sdl”(用“/GS-”)
+  FileName.c
+D:\Project\text10.9\text10.9\FileName.c(13,8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  text10.9.vcxproj -> D:\Project\text10.9\x64\Debug\text10.9.exe
